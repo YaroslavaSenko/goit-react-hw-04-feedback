@@ -4,6 +4,7 @@ export const FeedBackForm = styled.div`
 width: 370px;
 margin-left: auto;
 margin-right: auto;
+padding: 40px;
 margin-top: 50px;
 background-color: white;
 border: 1px solid rgb(216, 228, 226);
